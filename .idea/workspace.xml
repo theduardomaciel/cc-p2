@@ -4,15 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d7bb8cc-8af8-4d0b-abd8-e3ce38eab282" name="Changes" comment="🌅 initial commit" />
+    <list default="true" id="4d7bb8cc-8af8-4d0b-abd8-e3ce38eab282" name="Changes" comment="🌅 docs: fix github !NOTE tag">
+      <change afterPath="$PROJECT_DIR$/src/project/activity1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/activity1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/activity1/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "theduardomaciel"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/theduardomaciel/cc-p2.git",
@@ -33,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -65,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739276830357</updated>
-      <workItem from="1739276831458" duration="1447000" />
+      <workItem from="1739276831458" duration="2458000" />
     </task>
     <task id="LOCAL-00001" summary="🌅 initial commit">
       <option name="closed" value="true" />
@@ -75,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739278198794</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="🌅 docs: fix github !NOTE tag">
+      <option name="closed" value="true" />
+      <created>1739278475704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739278475704</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value=" initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value=" initial commit" />
+    <MESSAGE value=" docs: fix github !NOTE tag" />
+    <option name="LAST_COMMIT_MESSAGE" value=" docs: fix github !NOTE tag" />
   </component>
 </project>
