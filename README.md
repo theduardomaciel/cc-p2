@@ -28,7 +28,7 @@ A estrutura de pastas do repositório é a seguinte:
 Para rodar os projetos deste repositório, você precisará ter o Java instalado em sua máquina.  
 Para isso, você pode baixar o JDK a partir do site oficial da [Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
-> !NOTE  
+> [!NOTE]  
 > A IDE (Integrated Development Environment) utilizada para o desenvolvimento dos projetos (IntelliJ IDEA) permite **baixar o JDK diretamente**, excluindo a necessidade de instalar o Java manualmente.  
 > Você pode baixá-la a partir do site oficial da [JetBrains](https://www.jetbrains.com/idea/download/).
 
