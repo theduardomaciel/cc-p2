@@ -1,4 +1,4 @@
-package project.activity1;
+package project.activity20250210;
 
 public class Product {
     private String name;

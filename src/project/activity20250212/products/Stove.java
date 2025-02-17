@@ -1,6 +1,6 @@
-package project.activity2.products;
+package project.activity20250212.products;
 
-import project.activity2.Product;
+import project.activity20250212.Product;
 
 public class Stove extends Product {
     private int burners;

@@ -1,4 +1,4 @@
-package project.activity2;
+package project.activity20250212;
 
 public class Product {
     private String brand;
@@ -15,5 +15,13 @@ public class Product {
 
     public double getPrice() {
         return price;
+    }
+
+    @Override
+    public String toString() {
+        return "Product{" +
+                "brand='" + brand + '\'' +
+                ", price=" + price +
+                '}';
     }
 }
