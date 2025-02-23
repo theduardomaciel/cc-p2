@@ -4,11 +4,11 @@ import java.util.ArrayList;
 
 public class ShoppingCart {
     private int customerID;
-    private ArrayList productList;
+    private ArrayList<Product> productList;
 
     public ShoppingCart(int customerID) {
         this.customerID = customerID;
-        this.productList = new ArrayList();
+        this.productList = new ArrayList<>();
     }
 
     public void addProduct(Product product) {
@@ -20,11 +20,11 @@ public class ShoppingCart {
     }
 
     public String getContents() {
-        String contents = "";
-        for (int i = 0; i < productList.size(); i++) {
-            contents += productList.get(i).toString() + "\n";
+        StringBuilder contents = new StringBuilder();
+        for (Product product : productList) {
+            contents.append(product.toString()).append("\n");
         }
-        return contents;
+        return contents.toString();
     }
 
     public int getCustomerID() {
@@ -37,8 +37,8 @@ public class ShoppingCart {
 
     public double getTotalPrice() {
         double totalPrice = 0;
-        for (int i = 0; i < productList.size(); i++) {
-            totalPrice += ((Product) productList.get(i)).getPrice();
+        for (Product product : productList) {
+            totalPrice += ((Product) product).getPrice();
         }
         return totalPrice;
     }

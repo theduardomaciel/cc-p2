@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d7bb8cc-8af8-4d0b-abd8-e3ce38eab282" name="Changes" comment="💫 feat: answered activity 2">
+    <list default="true" id="4d7bb8cc-8af8-4d0b-abd8-e3ce38eab282" name="Changes" comment="🧼 refactor: updated naming convention">
+      <change afterPath="$PROJECT_DIR$/src/project/activity20250212/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/activity20250217/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/activity20250217/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/activity20250217/persons/LegalEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/activity20250217/persons/NaturalPerson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/activity1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/activity20250110/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/activity1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/activity20250110/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/activity1/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/activity20250110/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/activity2/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/activity20250212/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/activity2/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/activity20250212/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/activity2/products/Refrigerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/activity20250212/products/Refrigerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/activity2/products/Stove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/activity20250212/products/Stove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/activity2/products/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/activity20250212/products/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/activity20250212/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/activity20250212/ShoppingCart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Eduardo/Documents/UFAL/Projetos/cc-p2/src/project/activity20250217/products&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,6 +68,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Eduardo\Documents\UFAL\Projetos\cc-p2\src\project\activity20250217\products" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Eduardo\Documents\UFAL\Projetos\cc-p2\.github" />
     </key>
@@ -93,7 +95,12 @@
       <workItem from="1739284433421" duration="8000" />
       <workItem from="1739387745657" duration="229000" />
       <workItem from="1739531882369" duration="225000" />
-      <workItem from="1739818742548" duration="2394000" />
+      <workItem from="1739818742548" duration="2478000" />
+      <workItem from="1740145282908" duration="38000" />
+      <workItem from="1740200470332" duration="373000" />
+      <workItem from="1740203366193" duration="647000" />
+      <workItem from="1740242289559" duration="61000" />
+      <workItem from="1740273909303" duration="1009000" />
     </task>
     <task id="LOCAL-00001" summary="🌅 initial commit">
       <option name="closed" value="true" />
@@ -135,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739819268443</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="🧼 refactor: updated naming convention">
+      <option name="closed" value="true" />
+      <created>1739822024155</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739822024155</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +174,7 @@
     <MESSAGE value=" feat: initial activity 1 implementation" />
     <MESSAGE value=" feat: improved activity 1 solution" />
     <MESSAGE value=" feat: answered activity 2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" feat: answered activity 2" />
+    <MESSAGE value=" refactor: updated naming convention" />
+    <option name="LAST_COMMIT_MESSAGE" value=" refactor: updated naming convention" />
   </component>
 </project>
