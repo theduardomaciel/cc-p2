@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d7bb8cc-8af8-4d0b-abd8-e3ce38eab282" name="Changes" comment="🧼 refactor: updated naming convention">
-      <change afterPath="$PROJECT_DIR$/src/project/activity20250212/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/activity20250217/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/activity20250217/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/activity20250217/persons/LegalEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project/activity20250217/persons/NaturalPerson.java" afterDir="false" />
+    <list default="true" id="4d7bb8cc-8af8-4d0b-abd8-e3ce38eab282" name="Changes" comment="💫 feat: exercise 3 base  solution">
+      <change afterPath="$PROJECT_DIR$/src/project/activity20250226/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/project/activity20250226/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/project/activity20250212/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project/activity20250212/ShoppingCart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +96,11 @@
       <workItem from="1740200470332" duration="373000" />
       <workItem from="1740203366193" duration="647000" />
       <workItem from="1740242289559" duration="61000" />
-      <workItem from="1740273909303" duration="1009000" />
+      <workItem from="1740273909303" duration="1384000" />
+      <workItem from="1740276622570" duration="10000" />
+      <workItem from="1740976181846" duration="84000" />
+      <workItem from="1740976291533" duration="16000" />
+      <workItem from="1741545656357" duration="3176000" />
     </task>
     <task id="LOCAL-00001" summary="🌅 initial commit">
       <option name="closed" value="true" />
@@ -150,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739822024155</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="💫 feat: exercise 3 base  solution">
+      <option name="closed" value="true" />
+      <created>1740275296631</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740275296631</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +183,7 @@
     <MESSAGE value=" feat: improved activity 1 solution" />
     <MESSAGE value=" feat: answered activity 2" />
     <MESSAGE value=" refactor: updated naming convention" />
-    <option name="LAST_COMMIT_MESSAGE" value=" refactor: updated naming convention" />
+    <MESSAGE value=" feat: exercise 3 base  solution" />
+    <option name="LAST_COMMIT_MESSAGE" value=" feat: exercise 3 base  solution" />
   </component>
 </project>
