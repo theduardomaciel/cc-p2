@@ -1,6 +1,6 @@
-package project.activity20250217.persons;
+package activity3_2025_02_17.persons;
 
-import project.activity20250217.Person;
+import activity3_2025_02_17.Person;
 
 public class LegalEntity extends Person {
     int workersAmount;

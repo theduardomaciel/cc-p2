@@ -1,7 +1,6 @@
-package project.activity20250212;
+package activity2_2025_02_12;
 
-import project.activity20250212.Product;
-import project.activity20250212.products.Refrigerator;
+import activity2_2025_02_12.products.Refrigerator;
 
 public class Main {
     public static void main(String[] args) {

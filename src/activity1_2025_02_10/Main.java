@@ -1,4 +1,4 @@
-package project.activity20250210;
+package activity1_2025_02_10;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

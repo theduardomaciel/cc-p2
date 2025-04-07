@@ -1,4 +1,4 @@
-package project.activity20250217;
+package activity3_2025_02_17;
 
 public abstract class Person {
     String name;

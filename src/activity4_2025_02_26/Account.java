@@ -1,4 +1,4 @@
-package project.activity20250226;
+package activity4_2025_02_26;
 
 public class Account {
     private int accountNumber;

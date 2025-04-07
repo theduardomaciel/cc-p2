@@ -1,7 +1,7 @@
-package project.activity20250217;
+package activity3_2025_02_17;
 
-import project.activity20250217.persons.LegalEntity;
-import project.activity20250217.persons.NaturalPerson;
+import activity3_2025_02_17.persons.LegalEntity;
+import activity3_2025_02_17.persons.NaturalPerson;
 
 import java.util.ArrayList;
 import java.util.Scanner;

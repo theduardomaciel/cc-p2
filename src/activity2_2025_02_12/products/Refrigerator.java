@@ -1,6 +1,6 @@
-package project.activity20250212.products;
+package activity2_2025_02_12.products;
 
-import project.activity20250212.Product;
+import activity2_2025_02_12.Product;
 
 public class Refrigerator extends Product {
     private int size;
