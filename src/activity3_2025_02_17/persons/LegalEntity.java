@@ -2,6 +2,7 @@ package activity3_2025_02_17.persons;
 
 import activity3_2025_02_17.Person;
 
+// Esta classe representa uma entidade legal (empresa) que herda da classe Person.
 public final class LegalEntity extends Person {
     int workersAmount;
 
