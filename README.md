@@ -9,6 +9,9 @@
 Este repositório contém os conteúdos, scripts e projetos desenvolvidos durante a matéria de _Programação 2_, cursada no período 2024.2.  
 Ele foi organizado para facilitar o acesso e o entendimento do material estudado.
 
+> [!NOTE]  
+> Para acessar o projeto da matéria, "Jackut", basta acessar [esse link](https://github.com/theduardomaciel/p2-jackut).
+
 ## 📂 Estrutura de Pastas
 
 A estrutura de pastas do repositório é a seguinte:
@@ -21,7 +24,7 @@ A estrutura de pastas do repositório é a seguinte:
 ```
 
 - **.idea**: Configurações específicas do IntelliJ para o projeto, majoritariamente para o gerenciamento da SDK do Java.
-- **src**: Pasta contendo os scripts e projetos desenvolvidos durante a matéria.
+- **src**: Pasta contendo as atividades desenvolvidas durante a matéria.
 
 ## 🪛 Requisitos
 
@@ -59,7 +62,7 @@ Para isso, você pode baixar o JDK a partir do site oficial da [Oracle](https://
 ## Contribuição
 
 Contribuições são muito bem-vindas!  
-Sinta-se à vontade para enviar _pull requests_ ou abrir _issues_ para reportar bugs ou sugerir melhorias.
+Sinta-se à vontade para abrir _issues_ para reportar bugs ou sugerir melhorias.
 
 ## Licença
 
