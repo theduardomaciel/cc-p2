@@ -2,7 +2,7 @@ package activity3_2025_02_17.persons;
 
 import activity3_2025_02_17.Person;
 
-public class LegalEntity extends Person {
+public final class LegalEntity extends Person {
     int workersAmount;
 
     public LegalEntity(String name, double annualIncome, int workersAmount) {
@@ -10,6 +10,7 @@ public class LegalEntity extends Person {
         this.workersAmount = workersAmount;
     }
 
+    @Override
     public double calculateTax() {
         double annualIncome = getAnnualIncome();
 

@@ -2,7 +2,7 @@ package activity3_2025_02_17.persons;
 
 import activity3_2025_02_17.Person;
 
-public class NaturalPerson extends Person {
+public final class NaturalPerson extends Person {
     double healthExpenses;
 
     public NaturalPerson(String name, double annualIncome, double healthExpenses) {
@@ -10,6 +10,7 @@ public class NaturalPerson extends Person {
         this.healthExpenses = healthExpenses > 0 ? healthExpenses : 0;
     }
 
+    @Override
     public double calculateTax() {
         double annualIncome = getAnnualIncome();
 
